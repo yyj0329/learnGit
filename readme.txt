@@ -1,2 +1,2 @@
 git is good
-git is beautiful
+git is beautiful and delightful
